@@ -13,15 +13,3 @@ Let's create a new virtual environment for our Django projects. We'll need to do
 
 ## Install Django:
 `(djangoPy3Env) Windows/Mac:| pip install Django==2.2.4`
-
-
-1. Activate your Django virtual environment (use your preferred method, or follow these steps).
-    1. Change directory (cd) into your environments directory.
-    2. Once there, activate your Django virtual environment:
-        - Mac/Linux: source py3Env/bin/activate
-        - Windows: call py3Env\Scripts\activate
-        
-cd to your desired directory.
-django-admin startproject <project_name>.
-cd <project_name>.
-python manage.py startapp <app_name>.
