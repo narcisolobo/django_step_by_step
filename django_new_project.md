@@ -3,7 +3,7 @@
 Let's create a new virtual environment for our Django projects. We'll need to do this just once. Create and navigate to a folder named *my_environments* and run the appropriate commands to create a virtual environment and then install Django:
 
 Create your environment:\
-`Mac/Linux: | python3 -m venv djangoPy3Env`
+`Mac/Linux: | python3 -m venv djangoPy3Env`\
 `Windows (command prompt): | python -m venv djangoPy3Env`
 
 Activate your environment:
