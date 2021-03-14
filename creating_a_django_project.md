@@ -18,3 +18,5 @@
     1. Import the render function from django.shortcuts.
     2. Create the function you named in step 8.4 and return a render of a template.
 10. Create the template you named in step 9.2. It needs to be in a folder called templates in the **app** directory.
+
+**Spin up your server and see if it works!**
