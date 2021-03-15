@@ -1,4 +1,4 @@
-# Creating a new Django Virtal Environment
+# Creating a new Django Virtual Environment
 
 Let's create a new virtual environment for our Django projects. We'll need to do this just once. Create and navigate to your *my_environments* directory and run the appropriate commands to create a virtual environment and then install Django:
 
