@@ -2,9 +2,9 @@
 
 1. Activate your Django virtual environment.
 2. Navigate to where you want the project to be saved.
-3. Create a new Django project.
+3. Create a new Django project: `django-admin startproject {name_of_project}`
 4. Navigate into the newly-created project directory.
-5. Create a new Django app.
+5. Create a new Django app: `python manage.py startapp {name_of_app}`
 6. Add your newly-created app to the `INSTALLED_APPS` list in *settings.py*.
 7. In the **project** directory, open *urls.py* in VS Code.
     1. Add an import for the include function.
